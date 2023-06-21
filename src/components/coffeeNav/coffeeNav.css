@@ -1,0 +1,45 @@
+.navigationMenu{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+}
+
+.navigationMenu.black{
+    justify-content: center;
+    color: #000;
+}
+
+.navigationItem{
+    margin-right: 40px;
+    list-style-type: none;
+}
+.navigationItem.seed{
+    margin-right: 0px;
+    list-style-type: none;
+}
+.navigationItem a{
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 17px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.navigationMenu.black a{
+    color: #000;
+}
+
+.navigationItem a:hover{
+    color:rgba(255, 255, 255, 0.5);
+    transition: .5s ease;
+}
+
+.navigationMenu.black a:hover{
+    color:rgba(0, 0, 0, 0.5);
+}
+
+.navigationItem:last-child{
+    margin-right: 0px;
+}
