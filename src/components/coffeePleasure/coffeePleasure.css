@@ -1,0 +1,60 @@
+.coffeePleasureHeader{
+    background: url('../../images/coffeePleasureBg.jpg') no-repeat 100%/cover;
+    padding: 30px 150px;
+}
+
+.coffeePleasureTitle{
+    margin: 60px 0px 84px 0px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.coffeePleasureAbout{
+    margin-top: 70px;
+}
+
+.bottomLine{
+    display: block;
+    margin: 60px auto;
+    width: 240px;
+    height: 1px;
+    background: #000;
+}
+
+.coffeePleasureAboutWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.coffeePleasureImg img{
+    margin-right: 79px;
+    width: 272px;
+    height: 355px;
+    box-shadow:2px 2px 2px 1px rgba(196, 196, 196, .5);
+}
+
+.coffeePleasureDescription{
+    max-width: 346px;
+    color: #000;
+    text-align: center;
+    font-size: 14px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.coffeePleasureDescription h2{
+    color: #000;
+    font-size: 24px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}

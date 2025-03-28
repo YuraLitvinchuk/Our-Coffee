@@ -1,0 +1,53 @@
+.coffeeOneHeader{
+    background: url('../../images/coffeeShopBg.jpg') no-repeat 100%/cover;
+    padding: 30px 150px;
+}
+
+.coffeeOneTitle{
+    margin: 60px 0px 84px 0px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 58px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.coffeeOneAbout{
+    margin-top: 70px;
+}
+
+.coffeeOneAboutWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.coffeeOneImg img{
+    margin-right: 79px;
+    width: 272px;
+    height: 355px;
+    object-fit: contain;
+    box-shadow:2px 2px 2px 1px rgba(196, 196, 196, .5);
+}
+
+.coffeeOneDescription{
+    max-width: 346px;
+    color: #000;
+    text-align: left;
+    font-size: 14px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.coffeeOneDescription h2{
+    color: #000;
+    font-size: 24px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}

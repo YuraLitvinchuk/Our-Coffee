@@ -1,5 +1,10 @@
-.app {
-    margin: 0 auto;
-    max-width: 1440px;
-  }
-  
+.search-panel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-panel.none{
+  display: none;
+}

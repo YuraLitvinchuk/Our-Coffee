@@ -1,0 +1,60 @@
+{
+  "coffee": [
+    {
+      "id": 1,
+      "name": "Aromistico Coffee 1kg",
+      "country": "Brazil",
+      "price": 6.99,
+      "img": "/images/Aromistico Coffee.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": true
+    },
+    {
+      "id": 2,
+      "name": "Solimo Coffee Beans  2kg",
+      "country": "Argentina",
+      "price": 10.73,
+      "img": "/images/Solimo Beans.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": true
+    },
+    {
+      "id": 3,
+      "name": "Presto Coffee Beans 1kg",
+      "country": "Italy",
+      "price": 15.99,
+      "img": "/images/Presto Coffee.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": true
+    },
+    {
+      "id": 4,
+      "name": "Dallmayr Cofee 250gm",
+      "country": "German",
+      "price": 9.0,
+      "img": "/images/Dallmayr.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": false
+    },
+    {
+      "id": 5,
+      "name": "Nescafe Cofee 250gm",
+      "country": "Russia",
+      "price": 2.35,
+      "img": "/images/Nescafe.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": false
+    },
+    {
+      "id": 6,
+      "name": "Jockey Coffey 250gm",
+      "country": "Belarus",
+      "price": 3.41,
+      "img": "/images/Jockey.jpg",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "best": false
+    }
+  ],
+  "search":"",
+  "filter":"all"
+}

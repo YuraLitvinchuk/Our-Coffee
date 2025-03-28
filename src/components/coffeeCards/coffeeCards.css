@@ -1,0 +1,14 @@
+.coffeFilterCards{
+    margin: 60px auto;
+    max-width: 815px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.coffeFilterCards a{
+    text-decoration: none;
+}

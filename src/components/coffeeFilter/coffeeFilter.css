@@ -1,0 +1,57 @@
+.coffeFilterBtn .white{
+    padding: 6px 36px;
+    color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    font-size: 12px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 4px;
+    background: #FFF;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+}
+
+.coffeFilterBtn span{
+    margin-right: 35px;
+    color: #000;
+    font-size: 14px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.coffeFilterBtn .white{
+    margin-right: 5px;
+    padding: 7px 20px;
+    color: #000;
+    cursor: pointer;
+}
+
+.coffeFilterBtn .dark{
+    margin-right: 5px;
+    padding: 6px 36px;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 4px;
+    background: #000;
+    border: none;
+    cursor: pointer;
+}
+
+.coffeFilterBtn .white:hover{
+    background-color: #000;
+    color: #fff;
+    transition: .7s ease;
+}
+
+.coffeFilterBtn button:last-child{
+    margin-right: 0px;
+}

@@ -1,0 +1,47 @@
+.coffeeFilterCard{
+    padding: 37px 27px 22px 27px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: right;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    color: #000;
+    font-size: 14px;
+    font-family: "Merienda";
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+}
+
+.coffeeFilterCard:hover{
+    margin-top: -5px;
+}
+
+.coffeeShopCard div{
+    margin-bottom: 14px;
+}
+
+.coffeeFilterCard div:last-child{
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.coffeeFilterCard:last-child{
+    margin-right: 0px;
+}
+
+.coffeeFilterCard img{
+    width: 150px;
+    height: 130px;
+    object-fit: contain;
+}
+
+.price{
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: right;
+    color: #000000;
+}

@@ -1,0 +1,32 @@
+.coffeFilterInput{
+    margin-right: 83px;
+}
+
+.coffeFilterInput span{
+    margin-right: 20px;
+
+}
+
+.coffeFilterInput span{
+    color: #000;
+    font-size: 14px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.coffeFilterInput input{
+    padding: 6px 36px;
+    color: rgba(0, 0, 0, 0.50);
+    text-align: center;
+    font-size: 12px;
+    font-family: Merienda;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 4px;
+    background: #FFF;
+    box-shadow: 4px 4px 20px 0px rgba(0, 0, 0, 0.25);
+    border: none;
+}
